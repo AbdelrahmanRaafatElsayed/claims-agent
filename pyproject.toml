@@ -1,7 +1,7 @@
 [project]
 name = "claims-agent"
 version = "0.1.0"
-description = "Add your description here"
+description = "Healthcare claims AI agent : validated claims data, SQL analytics and LLM-powered question-answering API"
 readme = "README.md"
 authors = [
     { name = "AbdelrahmanRaafatElsayed", email = "abdelrahmanraafatelbasha@gmail.com" }
